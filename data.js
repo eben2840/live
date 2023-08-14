@@ -4,7 +4,7 @@ let songs = [
         name: 'The Music Spotlight (TMS)',
         path: './musics/2023wk19 The Music Spotlight (TMS) ep1 Sad Boys music label.mp3',
         artist: 'Ep1 Sad Boys music label',
-        cover: './images/2023wk19 The Music Spotlight (TMS) ep1 Sad Boys music label.jpg'
+        cover: '/images/2023wk19 The Music Spotlight (TMS) ep1 Sad Boys music label.jpg'
     },
     
     {
